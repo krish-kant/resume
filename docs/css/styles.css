@@ -10106,6 +10106,10 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
+.slow-spin {
+  -webkit-animation: fa-spin 6s infinite linear;
+  animation: fa-spin 6s infinite linear;
+}
 
 section.resume-section {
   display: flex;
